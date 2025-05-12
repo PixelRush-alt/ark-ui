@@ -1,7 +1,10 @@
+import React from 'react'
 import antd from 'antd'
 
-const Card = () => {
+const Card = (props) => {
   return (
-    <div>todo<div>
+    <div className='wrapper'>
+      <div className='header'></div>
+    <div>
   )
 }
